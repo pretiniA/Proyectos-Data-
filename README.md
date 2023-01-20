@@ -1,11 +1,20 @@
 # Proyecto-Analisis-crediticio
 Este repositorio contiene el proyecto desarrollado en el marco del curso de Data Science de Coderhouse.
 Para el mismo utilizamos una base de datos (con datos simulados) correspondiente a una entidad financiera.
-El objetivo del mismo es predecir la clase que asumirá un nuevo cliente dentro de la variable 'STATUS' (la cual hace referencia al grado de morosidad del cliente a la hora de pagar el préstamo).
-Para realizar el proyecto utilizamos jupyter notebook con las libreria que se detalla a continuación:
--Pandas y NumPy para manipulación y limpieza de datos.
--Matplotlib, seaborn y Plotly para realizar visualizaciones.
--Scikit-learn e imbalanced-learn para realizar, evaluar y perfeccionar modelos de machine learning.
+
+**Objetivo**
+
+* El objetivo del mismo es predecir la clase que asumirá un nuevo cliente dentro de la variable 'STATUS' (la cual hace referencia al grado de morosidad del cliente a la hora de pagar el préstamo).
+
+**Herramientas utilizadas**
+
+* Para realizar el proyecto utilizamos jupyter notebook con las libreria que se detalla a continuación:
+1. Pandas y NumPy para manipulación y limpieza de datos.
+2. Matplotlib, seaborn y Plotly para realizar visualizaciones.
+3. Scikit-learn e imbalanced-learn para realizar, evaluar y perfeccionar modelos de machine learning.
+
+**Resultados**
+
 Luego del trabajo realizado las métricas finales obtenidas fueron las siguientes:
 
              precision    recall  f1-score   support
