@@ -8,7 +8,7 @@ Para el mismo utilizamos una base de datos (con datos simulados) correspondiente
 
 **Herramientas utilizadas**
 
-* Para realizar el proyecto utilizamos jupyter notebook con las libreria que se detalla a continuación:
+* Para realizar el proyecto utilizamos jupyter notebook con las librerias que se detallan a continuación:
 1. Pandas y NumPy para manipulación y limpieza de datos.
 2. Matplotlib, seaborn y Plotly para realizar visualizaciones.
 3. Scikit-learn e imbalanced-learn para realizar, evaluar y perfeccionar modelos de machine learning.
