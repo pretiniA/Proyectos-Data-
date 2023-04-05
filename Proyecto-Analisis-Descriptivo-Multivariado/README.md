@@ -11,4 +11,5 @@ Para el mismo utilizamos una base de datos provista por los profesores, la cual 
 * Para realizar el proyecto utilizamos jupyter notebook, implementando técnicas estadísticas tales como PCA (Análisis de Componentes Principales), detección de outliers multivariados, y prubas de normalidad multivariada.
 
 **Resultados**
-Para visualizar las conclusiones obtenidas leer el documento adjunto, e ingresar al siguiente link de google colab: https://colab.research.google.com/drive/1RDgBcORzQPAscI89aIV2eWMAYB3f9QEw?usp=sharing&authuser=1 
+
+* Para visualizar las conclusiones obtenidas leer el documento adjunto, e ingresar al siguiente link de google colab: https://colab.research.google.com/drive/1RDgBcORzQPAscI89aIV2eWMAYB3f9QEw?usp=sharing&authuser=1 
