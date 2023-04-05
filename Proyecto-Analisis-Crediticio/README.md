@@ -1,5 +1,5 @@
 # Proyecto-Analisis-crediticio
-Este repositorio contiene el proyecto desarrollado en el marco del curso de Data Science de Coderhouse.
+Esta carpeta contiene el proyecto desarrollado en el marco del curso de Data Science de Coderhouse.
 Para el mismo utilizamos una base de datos (con datos simulados) correspondiente a una entidad financiera.
 
 **Objetivo**
