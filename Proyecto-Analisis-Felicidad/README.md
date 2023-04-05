@@ -1,4 +1,4 @@
-# Proyecto-Analisis-crediticio
+# Proyecto-Analisis-Felicidad
 Esta carpeta contiene el proyecto desarrollado en el marco del curso de Data Analytics de Coderhouse.
 Para el mismo utilizamos una base de datos con datos sobre la felicidad en el mundo, durante el período de
 tiempo comprendido entre 2005 y 2020. Éstos datos corresponden al 'World Happiness Report' de 2020.
